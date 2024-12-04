@@ -1,0 +1,1 @@
+scrapy crawl ubereats_spider
